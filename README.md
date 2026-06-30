@@ -1,4 +1,19 @@
-## Hi there 👋
+# Hi there, I'm Pramod Kumar 👋 🚀
+
+Senior QA Automation Engineer & DevOps Support Specialist focused on building reliable, self-scaling test frameworks and robust deployment pipelines.
+
+### 🛠 Tech Stack & Ecosystem
+- 💻 **Languages:** C#, Java, Python, JavaScript, SQL
+- 🧪 **Automation:** Selenium WebDriver, Playwright, Appium, NUnit, TestNG, Pytest, Robot Framework
+- ☁ **DevOps & Cloud:** Oracle Cloud Infrastructure (OCI), AWS, Docker, Kubernetes, Helm Charts, Jenkins CI/CD
+- 📊 **Databases:** PostgreSQL, MySQL
+
+### 🏅 Certifications
+- Oracle Cloud Infrastructure 2025 Certified Architect Associate
+- OCI DevOps Professional Certification
+
+### 📈 GitHub Stats
+![Pramod's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PK366&show_icons=true&theme=tokyonight)
 
 
 <p align="center">
