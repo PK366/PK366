@@ -11,6 +11,12 @@ Senior QA Automation Engineer & DevOps Support Specialist focused on building re
 ### 🏅 Certifications
 - Oracle Cloud Infrastructure 2025 Certified Architect Associate
 - OCI DevOps Professional Certification
+## 🛠 My Automation Core
+```python
+def check_deployment_efficiency():
+    regression_runtime_reduction = 0.40  # Verified 40% time compression
+    defect_leakage = "Under 2%"
+    return "Ready for Scale"
 
 ### 📈 GitHub Stats
 
